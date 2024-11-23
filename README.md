@@ -16,8 +16,9 @@ The **Sustainable Living Hub** is designed to address this gap by creating a com
 
 By combining these features, the platform creates a supportive environment that encourages users to transition into a more sustainable lifestyle. Through this project, I aim to demonstrate a deep understanding of full-stack development, including user experience design, backend architecture, database management, and API integration.
 
-## Live Demo
-Check out the live demo: [Sorry for inconvenience, link will be provided soon.]
+### Repository Link
+
+[GitHub Repository](https://github.com/dhanipkumarsharma/Ecohaven---Sustainable-Living-Hub)
 
 
 
